@@ -1,4 +1,4 @@
-## higher-order component
+## Higher-order component
 A higher-order component is a function that takes a component and returns a new component.
 
 This is a concept that is derived from the world of functional programming. But why use a functional programming concept in React?
